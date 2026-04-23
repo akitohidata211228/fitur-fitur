@@ -46,7 +46,7 @@ handler.category    = ['canvas']
 handler.meta = {
     fileName: 'ustadz.js',
     version:  '1',
-    author:   'converted',
+    author:   'Hidata',
     note:     'canvas ustadz via api.cuki.biz.id'
 }
 
